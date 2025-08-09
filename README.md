@@ -25,3 +25,10 @@ This is a course in python for PUCP
 3. Denzel Washington
 4. Adam Sandler
 
+## Schools
+1. La unión
+2. CET34
+3. Jose Pardo
+4. Colegio Guadalupe
+5. Trilce
+6. El buen pastor
